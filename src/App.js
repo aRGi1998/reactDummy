@@ -38,7 +38,7 @@ function App() {
         value={formData.email}
         onChange={handleChange}
       />
-      <label htmlFor="contact_number">Contact Number:</label>
+      <label htmlFor="password">Password</label>
       <input
         type="password"
         id="password"
